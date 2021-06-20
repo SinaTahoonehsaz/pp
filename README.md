@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
 <head>
 	<title>سیسمونی در مهرشهر کرج</title>
@@ -17,7 +17,7 @@
 	<!-- navbar-start -->
 <nav class="navbar navbar-expand-lg navbar-light bg-warning">
   <div class="container-fluid fixed-top navbar navbar-light" style="background-color: orange">
-    <a class="navbar-brand dosply-1" href="#" style="color: white; font-weight: bold; font-size: xx-large;">سیسمونی قصر کودک</a>
+    <a class="navbar-brand dosply-2" href="#" style="color: white; font-weight: bold; font-size: xx-large;">سیسمونی قصر کودک</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -25,12 +25,12 @@
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
         	<li class="nav-item">
-          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">به سیسمونی قصرکودک خوش آمدید</a>
+          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">آدرس:کرج-مهرشهر-بلوارارم-خیابان اول شرقی-روبروی مسجد صاحب الزمان</a>
         </li>
           <a class="nav-link active" aria-current="page" href="babygoods.html">خانه</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://www.instagram.com/sisigoods_insta/" target="_blank">اینستاگرام</a>
+          <a class="nav-link" href="https://www.instagram.com/sismooni_ghasrekoodak1/" target="_blank">اینستاگرام</a>
         </li>
 
       
@@ -39,7 +39,7 @@
          
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-         دسته ها <span class="badge bg-danger">به زودی</span></h1>
+         دسته ها <span class="badge bg-danger">به زودی</span>
              </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             <li><a class="dropdown-item" href="#">پوشاک</a></li>
@@ -86,48 +86,15 @@
 	<!-- introduction -->
 <hr>
 	<!-- headp-start-->
-	<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
-  </div>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="SisiGoods\baby-girl-room6.jpg" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5>سیسمونی قصرکودک</h5>
-        <p></p>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img src="SisiGoods\babygoodsp.jpg" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5>سیسمونی قصرکودک</h5>
-        <p></p>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img src="SisiGoods\baby-girl-room8.jpg" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5>سیسمونی قصرکودک</h5>
-        <p></p>
-      </div>
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions"  data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions"  data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
+	<a class="c-product-box__img js-url js-carousel-ga-product-box" data-id="2677898" href="/product/dkp-2677898/گوشی-موبایل-سامسونگ-مدل-galaxy-a71-sm-a715fds-دو-سیمکارت-ظرفیت-128-گیگابایت-و-رم-8-گیگابایت" data-gtm-vis-first-on-screen-9070001_346="32616" data-gtm-vis-total-visible-time-9070001_346="100" data-gtm-vis-has-fired-9070001_346="1"><img data-img="https://dkstatics-public.digikala.com/digikala-products/120415904.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60" alt="گوشی موبایل سامسونگ مدل Galaxy A71 SM-A715F/DS دو سیم‌کارت ظرفیت 128 گیگابایت و رم 8 گیگابایت" class="swiper-lazy js-template-img swiper-lazy-loaded" loading="lazy" src="https://dkstatics-public.digikala.com/digikala-products/120415904.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60"><img class="c-product-box__fmcg-symbol u-hidden" loading="lazy" src="https://www.digikala.com/static/files/31a78819.svg"></a><div class="c-product-box__title"><a href="/product/dkp-2677898/گوشی-موبایل-سامسونگ-مدل-galaxy-a71-sm-a715fds-دو-سیمکارت-ظرفیت-128-گیگابایت-و-رم-8-گیگابایت" data-id="2677898" class="js-carousel-ga-product-box" data-gtm-vis-first-on-screen-9070001_346="32621" data-gtm-vis-total-visible-time-9070001_346="100" data-gtm-vis-has-fired-9070001_346="1">
+                        گوشی موبایل سامسونگ مدل Galaxy A71 SM-A715F/DS دو سیم‌کارت ظرفیت 128 گیگابایت و رم 8 گیگابایت
+                    </a></div><div class="c-product-box__price-row"><div class="c-product-box__price-item"><div class="c-new-price"><div class="c-new-price__old-value u-hidden"><del>۹,۶۸۹,۰۰۰ </del><span class="c-new-price__discount">٪۰</span></div><div class="c-new-price__value">
+                                ۹,۶۸۹,۰۰۰ 
+                                <span class="c-new-price__currency">تومان</span></div></div></div></div>
 
 
 	<!-- headp-end -->
-	<hr>
+
 
 </body>
 </html>
